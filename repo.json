@@ -1,15 +1,9 @@
 [
 	{
-		"Name": "cmake",
+		"Name": "micmake",
 		"Description": "CMake intergration",
-		"Tags": ["build", "c", "c++", "cmake"],
-        "Website": ""
-        "Versions": [
-			{
-				"Version": "1.0",
-				"Url": "",
-				"Require": { }
-			}
-		]
+		"Tags": ["build", "c", "c++", "cmake", "gdb"],
+        "Website": "https://github.com/j-manderley/micmake"
+		"Version" : "0.1"
     }
 ]

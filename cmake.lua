@@ -1,4 +1,4 @@
-VERSION = "1.0"
+VERSION = "0.1"
 
 ----------------------------
 -- CMAKE STARTS FROM HERE --
@@ -23,7 +23,7 @@ function init()
 	config.MakeCommand("CMpts", onCMakePoints, NoComplete)
 	config.MakeCommand("CMvis", onCMakeVisualize, NoComplete)
 
-	config.AddRuntimeFile("microcmake", config.RTHelp, "help/microcmake.md")
+	config.AddRuntimeFile("micmake", config.RTHelp, "help/micmake.md")
 end
 
 function onCMakeVisualize(bp)

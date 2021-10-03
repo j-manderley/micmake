@@ -1,4 +1,4 @@
-**Microcmake**
+# micmake
 
 Really really really bad CMake integration into micro text editor.
 
