@@ -1,0 +1,15 @@
+[
+	{
+		"Name": "cmake",
+		"Description": "CMake intergration",
+		"Tags": ["build", "c", "c++", "cmake"],
+        "Website": ""
+        "Versions": [
+			{
+				"Version": "1.0",
+				"Url": "",
+				"Require": { }
+			}
+		]
+    }
+]
